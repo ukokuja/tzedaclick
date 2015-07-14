@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^section/(.*)/?$ index.php?section=$1
+ErrorDocument 400 index.php?section=page-404
+ErrorDocument 404 /tzedaclick/404.php

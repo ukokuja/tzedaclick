@@ -1,0 +1,76 @@
+/**/_xdc_._9yr7j9 && _xdc_._9yr7j9( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Sherbrooke Ouest",
+               "short_name" : "Rue Sherbrooke O",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milton Park",
+               "short_name" : "Milton Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Le Plateau-Mont-Royal",
+               "short_name" : "Le Plateau-Mont-Royal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montréal",
+               "short_name" : "Montréal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canadá",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H2X 1X2",
+               "short_name" : "H2X 1X2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "51 Rue Sherbrooke Ouest, Montréal, QC H2X 1X2, Canadá",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5118521,
+               "lng" : -73.56988
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51320108029149,
+                  "lng" : -73.5685310197085
+               },
+               "southwest" : {
+                  "lat" : 45.5105031197085,
+                  "lng" : -73.57122898029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ37ATvksayUwRfPg9LaQqbMA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
